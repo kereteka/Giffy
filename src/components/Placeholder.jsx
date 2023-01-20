@@ -44,8 +44,6 @@ const Placeholder = () => {
       <div className="animate-text overflow-hidden" ref={textRef}>
         <span>Gif and sticker search</span>
         <span>Amazing Gifs are here!</span>
-        <span>Amazing Gifs are here!</span>
-        <span>Gif and sticker search</span>
       </div>
     </div>
   )
